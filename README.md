@@ -55,7 +55,7 @@ Built a custom Arduino joystick teleoperation system with serial communication t
 ![image](assets/ezgif-7a3912e4839c5236.gif)
 
 ## joystick controller to navigate into the different env
-Building the map of an room uisng SLAM 
+Building the map of an room using SLAM 
 ![image](assets/ezgif-7d5f055413c07206.gif)
 
 ## Exlporation using SLAM with nav2
