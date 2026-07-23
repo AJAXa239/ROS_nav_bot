@@ -51,6 +51,10 @@ Built as part of an ongoing robotics portfolio, this project explores the full n
 - `ros2 launch explore_lite explore.launch.py`
 - `ros2 run bme_ros2_navigation_py joystick_teleop`
 ## joystick controller 
-![image]()
+![image](assets/ezgif-7a3912e4839c5236.gif)
+
 ## joystick controller to navigate into the different env
 ![image](assets/ezgif-7d5f055413c07206.gif)
+
+## Exlporation uisng SLAM with nav2
+![image]()
