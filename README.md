@@ -57,4 +57,4 @@ Built as part of an ongoing robotics portfolio, this project explores the full n
 ![image](assets/ezgif-7d5f055413c07206.gif)
 
 ## Exlporation uisng SLAM with nav2
-![image]()
+![image](navigation.png)
