@@ -51,7 +51,7 @@ Built as part of an ongoing robotics portfolio, this project explores the full n
 - `ros2 launch explore_lite explore.launch.py`
 - `ros2 run bme_ros2_navigation_py joystick_teleop`
 ## joystick controller 
-Built a custom Arduino joystick teleoperation system with serial communication to ROS 2 and a hardware emergency-stop
+Built a custom Arduino joystick teleoperation system with serial communication to ROS 2
 ![image](assets/ezgif-7a3912e4839c5236.gif)
 
 ## joystick controller to navigate into the different env
